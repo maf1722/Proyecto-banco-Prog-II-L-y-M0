@@ -1,0 +1,8 @@
+{
+  "name": "Simulador Bancario Web — Cajero Automático",
+  "description": "Módulo de cajero automático",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
